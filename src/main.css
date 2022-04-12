@@ -123,6 +123,7 @@ body {
     color: var(--color-secondary);
     text-decoration: none;
     cursor: pointer;
+    font: 500 1rem 'Quicksand', sans-serif;
 }
 
 .form__link:hover {
